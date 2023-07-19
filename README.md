@@ -1,4 +1,4 @@
-# Another Looker Single Value Viz
+# Looker HTML Viz
 
 This 'chart' allows setting a HTML template on the Looker side, which then gets parsed and rendered by Looker. So if you want a nice looking chart but don't want to crowd your model with html, this one is your friend
 
